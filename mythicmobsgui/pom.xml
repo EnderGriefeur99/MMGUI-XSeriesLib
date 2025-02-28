@@ -61,9 +61,9 @@
           <filters>
             <filter>
               <artifact>*:*</artifact>
-              <includes>
+              <!-- <includes>
                 <include>com/cryptomorin/xseries/*</include>
-              </includes>
+              </includes> -->
             </filter>
           </filters>
         </configuration>
